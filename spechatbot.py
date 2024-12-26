@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1C_xHWKVesT467VSdRYcT14kpE6TkDp02
 """
 
-pip install nltk streamlit speechrecognition
+
 
 import streamlit as st
 import speech_recognition as sr
